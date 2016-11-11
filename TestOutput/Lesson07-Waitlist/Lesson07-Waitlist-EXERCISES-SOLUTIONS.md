@@ -6,15 +6,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson07-Waitlist](https://github.com/udacity/ud851-Exercises/tree/student/Lesson07-Waitlist)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T07.01-Exercise-CreateAContract...T07.01-Solution-CreateAContract)]
 
 
@@ -24,15 +15,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson07-Waitlist](https://github.com/udacity/ud851-Exercises/tree/student/Lesson07-Waitlist)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T07.02-Exercise-CreateTheDatabase...T07.02-Solution-CreateTheDatabase)]
 
 
@@ -42,15 +24,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson07-Waitlist](https://github.com/udacity/ud851-Exercises/tree/student/Lesson07-Waitlist)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T07.03-Exercise-GetAllTheData...T07.03-Solution-GetAllTheData)]
 
 
@@ -60,15 +33,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson07-Waitlist](https://github.com/udacity/ud851-Exercises/tree/student/Lesson07-Waitlist)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T07.04-Exercise-UpdateTheAdapter...T07.04-Solution-UpdateTheAdapter)]
 
 
@@ -78,15 +42,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson07-Waitlist](https://github.com/udacity/ud851-Exercises/tree/student/Lesson07-Waitlist)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T07.05-Exercise-AddGuests...T07.05-Solution-AddGuests)]
 
 
@@ -96,13 +51,4 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson07-Waitlist](https://github.com/udacity/ud851-Exercises/tree/student/Lesson07-Waitlist)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T07.06-Exercise-RemoveGuests...T07.06-Solution-RemoveGuests)]

@@ -6,15 +6,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson09-ToDo-List](https://github.com/udacity/ud851-Exercises/tree/student/Lesson09-ToDo-List)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T09.01-Exercise-SetupContentProvider...T09.01-Solution-SetupContentProvider)]
 
 
@@ -24,15 +15,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson09-ToDo-List](https://github.com/udacity/ud851-Exercises/tree/student/Lesson09-ToDo-List)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T09.02-Exercise-AddURIsToContract...T09.02-Solution-AddURIsToContract)]
 
 
@@ -42,15 +24,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson09-ToDo-List](https://github.com/udacity/ud851-Exercises/tree/student/Lesson09-ToDo-List)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T09.03-Exercise-UriMatcher...T09.03-Solution-UriMatcher)]
 
 
@@ -60,15 +33,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson09-ToDo-List](https://github.com/udacity/ud851-Exercises/tree/student/Lesson09-ToDo-List)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T09.04-Exercise-Insert...T09.04-Solution-Insert)]
 
 
@@ -78,15 +42,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson09-ToDo-List](https://github.com/udacity/ud851-Exercises/tree/student/Lesson09-ToDo-List)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T09.05-Exercise-QueryAllTasks...T09.05-Solution-QueryAllTasks)]
 
 
@@ -96,15 +51,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson09-ToDo-List](https://github.com/udacity/ud851-Exercises/tree/student/Lesson09-ToDo-List)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T09.06-Exercise-Delete...T09.06-Solution-Delete)]
 
 
@@ -114,13 +60,4 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson09-ToDo-List](https://github.com/udacity/ud851-Exercises/tree/student/Lesson09-ToDo-List)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T09.07-Exercise-SwipeToDelete...T09.07-Solution-SwipeToDelete)]

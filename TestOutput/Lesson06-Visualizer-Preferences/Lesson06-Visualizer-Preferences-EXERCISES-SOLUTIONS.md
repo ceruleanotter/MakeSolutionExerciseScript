@@ -6,15 +6,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson06-Visualizer-Preferences](https://github.com/udacity/ud851-Exercises/tree/student/Lesson06-Visualizer-Preferences)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T06.01-Exercise-SetupTheActivity...T06.01-Solution-SetupTheActivity)]
 
 
@@ -24,15 +15,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson06-Visualizer-Preferences](https://github.com/udacity/ud851-Exercises/tree/student/Lesson06-Visualizer-Preferences)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T06.02-Exercise-MakeAPreferenceFragment...T06.02-Solution-MakeAPreferenceFragment)]
 
 
@@ -42,15 +24,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson06-Visualizer-Preferences](https://github.com/udacity/ud851-Exercises/tree/student/Lesson06-Visualizer-Preferences)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T06.03-Exercise-ReadingFromSharedPreferences...T06.03-Solution-ReadingFromSharedPreferences)]
 
 
@@ -60,15 +33,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson06-Visualizer-Preferences](https://github.com/udacity/ud851-Exercises/tree/student/Lesson06-Visualizer-Preferences)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T06.04-Exercise-UseResources...T06.04-Solution-UseResources)]
 
 
@@ -78,15 +42,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson06-Visualizer-Preferences](https://github.com/udacity/ud851-Exercises/tree/student/Lesson06-Visualizer-Preferences)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T06.05-Exercise-PreferenceChangeListener...T06.05-Solution-PreferenceChangeListener)]
 
 
@@ -96,15 +51,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson06-Visualizer-Preferences](https://github.com/udacity/ud851-Exercises/tree/student/Lesson06-Visualizer-Preferences)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T06.06-Exercise-AddTwoMoreCheckboxes...T06.06-Solution-AddTwoMoreCheckboxes)]
 
 
@@ -114,15 +60,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson06-Visualizer-Preferences](https://github.com/udacity/ud851-Exercises/tree/student/Lesson06-Visualizer-Preferences)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T06.07-Exercise-ListPreference...T06.07-Solution-ListPreference)]
 
 
@@ -132,15 +69,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson06-Visualizer-Preferences](https://github.com/udacity/ud851-Exercises/tree/student/Lesson06-Visualizer-Preferences)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T06.08-Exercise-PreferenceSummary...T06.08-Solution-PreferenceSummary)]
 
 
@@ -150,15 +78,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson06-Visualizer-Preferences](https://github.com/udacity/ud851-Exercises/tree/student/Lesson06-Visualizer-Preferences)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T06.09-Exercise-EditTextPreference...T06.09-Solution-EditTextPreference)]
 
 
@@ -168,13 +87,4 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson06-Visualizer-Preferences](https://github.com/udacity/ud851-Exercises/tree/student/Lesson06-Visualizer-Preferences)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T06.10-Exercise-EditTextPreferenceConstraints...T06.10-Solution-EditTextPreferenceConstraints)]

@@ -6,15 +6,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson02-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.01-Exercise-CreateLayout...T02.01-Solution-CreateLayout)]
 
 
@@ -24,15 +15,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson02-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.02-Exercise-AddMenu...T02.02-Solution-AddMenu)]
 
 
@@ -42,15 +24,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson02-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.03-Exercise-DisplayUrl...T02.03-Solution-DisplayUrl)]
 
 
@@ -60,15 +33,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson02-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.04-Exercise-ConnectingToTheInternet...T02.04-Solution-ConnectingToTheInternet)]
 
 
@@ -78,15 +42,6 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson02-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.05-Exercise-CreateAsyncTask...T02.05-Solution-CreateAsyncTask)]
 
 
@@ -96,13 +51,4 @@
 
 
 
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
 **Solution:** [[Lesson02-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.06-Exercise-AddPolish...T02.06-Solution-AddPolish)]
