@@ -40,7 +40,7 @@ MARKDOWN_EXERCISE = """
 """
 
 MARKDOWN_TOY_SOLUTION = """
-**Solution:** [[{folderName}]({folderLink})][[Diff]({diffLink})]
+**Solution:** [[{solName}]({solLink})][[Diff]({diffLink})]
 """
 
 MARKDOWN_SUNSHINE_SOLUTION = """
@@ -53,7 +53,7 @@ MARKDOWN_SUNSHINE_SOLUTION = """
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[{folderName}]({folderLink})][[Diff]({diffLink})]
+**Solution:** [[{solName}]({solLink})][[Diff]({diffLink})]
 """
 
 
@@ -102,19 +102,20 @@ class BranchText:
                 # Generate solution text
                 curSolutionName = curExerciseName.replace(
                     "Exercise", "Solution")
+                curSolutionFolder = self.folderLink + "/" + curSolutionName
                 curDiffLink = GITHUB_DIFF_URL.format(
                     before=curExerciseName,
                     after=curSolutionName)
                 curSolutionString = ""
                 if sunshineStyle:
                     curSolutionString = MARKDOWN_SUNSHINE_SOLUTION.format(
-                        folderName=self.folderName,
-                        folderLink=self.folderLink,
+                        solName=curSolutionName,
+                        solLink=curSolutionFolder,
                         diffLink=curDiffLink)
                 else:
                     curSolutionString = MARKDOWN_TOY_SOLUTION.format(
-                        folderName=self.folderName,
-                        folderLink=self.folderLink,
+                        solName=curSolutionName,
+                        solLink=curSolutionFolder,
                         diffLink=curDiffLink)
 
                 stringToWrite = stringToWrite + "\n\n" + curSolutionString

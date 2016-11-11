@@ -6,7 +6,7 @@
 
 
 
-**Solution:** [[Lesson01-Favorite-Toys](https://github.com/udacity/ud851-Exercises/tree/student/Lesson01-Favorite-Toys)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T01.01-Exercise-CreateLayout...T01.01-Solution-CreateLayout)]
+**Solution:** [[T01.01-Solution-CreateLayout](https://github.com/udacity/ud851-Exercises/tree/student/Lesson01-Favorite-Toys/T01.01-Solution-CreateLayout)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T01.01-Exercise-CreateLayout...T01.01-Solution-CreateLayout)]
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-**Solution:** [[Lesson01-Favorite-Toys](https://github.com/udacity/ud851-Exercises/tree/student/Lesson01-Favorite-Toys)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T01.02-Exercise-DisplayToyList...T01.02-Solution-DisplayToyList)]
+**Solution:** [[T01.02-Solution-DisplayToyList](https://github.com/udacity/ud851-Exercises/tree/student/Lesson01-Favorite-Toys/T01.02-Solution-DisplayToyList)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T01.02-Exercise-DisplayToyList...T01.02-Solution-DisplayToyList)]
 
 
 
@@ -24,4 +24,4 @@
 
 
 
-**Solution:** [[Lesson01-Favorite-Toys](https://github.com/udacity/ud851-Exercises/tree/student/Lesson01-Favorite-Toys)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T01.03-Exercise-AddScrolling...T01.03-Solution-AddScrolling)]
+**Solution:** [[T01.03-Solution-AddScrolling](https://github.com/udacity/ud851-Exercises/tree/student/Lesson01-Favorite-Toys/T01.03-Solution-AddScrolling)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T01.03-Exercise-AddScrolling...T01.03-Solution-AddScrolling)]

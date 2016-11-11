@@ -6,7 +6,7 @@
 
 
 
-**Solution:** [[Lesson05b-Smarter-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson05b-Smarter-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T05b.01-Exercise-SaveResults...T05b.01-Solution-SaveResults)]
+**Solution:** [[T05b.01-Solution-SaveResults](https://github.com/udacity/ud851-Exercises/tree/student/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Solution-SaveResults)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T05b.01-Exercise-SaveResults...T05b.01-Solution-SaveResults)]
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-**Solution:** [[Lesson05b-Smarter-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson05b-Smarter-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T05b.02-Exercise-AddAsyncTaskLoader...T05b.02-Solution-AddAsyncTaskLoader)]
+**Solution:** [[T05b.02-Solution-AddAsyncTaskLoader](https://github.com/udacity/ud851-Exercises/tree/student/Lesson05b-Smarter-GitHub-Repo-Search/T05b.02-Solution-AddAsyncTaskLoader)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T05b.02-Exercise-AddAsyncTaskLoader...T05b.02-Solution-AddAsyncTaskLoader)]
 
 
 
@@ -24,4 +24,4 @@
 
 
 
-**Solution:** [[Lesson05b-Smarter-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson05b-Smarter-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T05b.03-Exercise-PolishAsyncTask...T05b.03-Solution-PolishAsyncTask)]
+**Solution:** [[T05b.03-Solution-PolishAsyncTask](https://github.com/udacity/ud851-Exercises/tree/student/Lesson05b-Smarter-GitHub-Repo-Search/T05b.03-Solution-PolishAsyncTask)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T05b.03-Exercise-PolishAsyncTask...T05b.03-Solution-PolishAsyncTask)]

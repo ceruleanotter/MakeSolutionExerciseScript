@@ -6,7 +6,7 @@
 
 
 
-**Solution:** [[Lesson11-Completeing-The-UI](https://github.com/udacity/ud851-Exercises/tree/student/Lesson11-Completeing-The-UI)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T11.01-Exercise-ConstraintLayout...T11.01-Solution-ConstraintLayout)]
+**Solution:** [[T11.01-Solution-ConstraintLayout](https://github.com/udacity/ud851-Exercises/tree/student/Lesson11-Completeing-The-UI/T11.01-Solution-ConstraintLayout)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T11.01-Exercise-ConstraintLayout...T11.01-Solution-ConstraintLayout)]
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-**Solution:** [[Lesson11-Completeing-The-UI](https://github.com/udacity/ud851-Exercises/tree/student/Lesson11-Completeing-The-UI)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T11.02-Exercise-DataBinding...T11.02-Solution-DataBinding)]
+**Solution:** [[T11.02-Solution-DataBinding](https://github.com/udacity/ud851-Exercises/tree/student/Lesson11-Completeing-The-UI/T11.02-Solution-DataBinding)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T11.02-Exercise-DataBinding...T11.02-Solution-DataBinding)]
 
 
 
@@ -24,4 +24,4 @@
 
 
 
-**Solution:** [[Lesson11-Completeing-The-UI](https://github.com/udacity/ud851-Exercises/tree/student/Lesson11-Completeing-The-UI)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T11.03-Exercise-LandscapeLayout...T11.03-Solution-LandscapeLayout)]
+**Solution:** [[T11.03-Solution-LandscapeLayout](https://github.com/udacity/ud851-Exercises/tree/student/Lesson11-Completeing-The-UI/T11.03-Solution-LandscapeLayout)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T11.03-Exercise-LandscapeLayout...T11.03-Solution-LandscapeLayout)]

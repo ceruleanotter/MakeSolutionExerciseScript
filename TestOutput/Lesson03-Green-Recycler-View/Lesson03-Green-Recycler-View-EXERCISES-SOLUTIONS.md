@@ -6,7 +6,7 @@
 
 
 
-**Solution:** [[Lesson03-Green-Recycler-View](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.01-Exercise-RecyclerViewLayout...T03.01-Solution-RecyclerViewLayout)]
+**Solution:** [[T03.01-Solution-RecyclerViewLayout](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View/T03.01-Solution-RecyclerViewLayout)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.01-Exercise-RecyclerViewLayout...T03.01-Solution-RecyclerViewLayout)]
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-**Solution:** [[Lesson03-Green-Recycler-View](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.02-Exercise-ViewHolder...T03.02-Solution-ViewHolder)]
+**Solution:** [[T03.02-Solution-ViewHolder](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View/T03.02-Solution-ViewHolder)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.02-Exercise-ViewHolder...T03.02-Solution-ViewHolder)]
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-**Solution:** [[Lesson03-Green-Recycler-View](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.03-Exercise-RecyclerViewAdapter...T03.03-Solution-RecyclerViewAdapter)]
+**Solution:** [[T03.03-Solution-RecyclerViewAdapter](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View/T03.03-Solution-RecyclerViewAdapter)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.03-Exercise-RecyclerViewAdapter...T03.03-Solution-RecyclerViewAdapter)]
 
 
 
@@ -33,7 +33,7 @@
 
 
 
-**Solution:** [[Lesson03-Green-Recycler-View](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.04-Exercise-WiringUpRecyclerView...T03.04-Solution-WiringUpRecyclerView)]
+**Solution:** [[T03.04-Solution-WiringUpRecyclerView](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View/T03.04-Solution-WiringUpRecyclerView)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.04-Exercise-WiringUpRecyclerView...T03.04-Solution-WiringUpRecyclerView)]
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-**Solution:** [[Lesson03-Green-Recycler-View](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.05-Exercise-GoingGreen...T03.05-Solution-GoingGreen)]
+**Solution:** [[T03.05-Solution-GoingGreen](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View/T03.05-Solution-GoingGreen)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.05-Exercise-GoingGreen...T03.05-Solution-GoingGreen)]
 
 
 
@@ -51,7 +51,7 @@
 
 
 
-**Solution:** [[Lesson03-Green-Recycler-View](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.06-Exercise-RefreshMenuButton...T03.06-Solution-RefreshMenuButton)]
+**Solution:** [[T03.06-Solution-RefreshMenuButton](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View/T03.06-Solution-RefreshMenuButton)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.06-Exercise-RefreshMenuButton...T03.06-Solution-RefreshMenuButton)]
 
 
 
@@ -60,4 +60,4 @@
 
 
 
-**Solution:** [[Lesson03-Green-Recycler-View](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.07-Exercise-RecyclerViewClickHandling...T03.07-Solution-RecyclerViewClickHandling)]
+**Solution:** [[T03.07-Solution-RecyclerViewClickHandling](https://github.com/udacity/ud851-Exercises/tree/student/Lesson03-Green-Recycler-View/T03.07-Solution-RecyclerViewClickHandling)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T03.07-Exercise-RecyclerViewClickHandling...T03.07-Solution-RecyclerViewClickHandling)]

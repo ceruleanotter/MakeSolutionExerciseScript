@@ -6,7 +6,7 @@
 
 
 
-**Solution:** [[Lesson02-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.01-Exercise-CreateLayout...T02.01-Solution-CreateLayout)]
+**Solution:** [[T02.01-Solution-CreateLayout](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search/T02.01-Solution-CreateLayout)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.01-Exercise-CreateLayout...T02.01-Solution-CreateLayout)]
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-**Solution:** [[Lesson02-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.02-Exercise-AddMenu...T02.02-Solution-AddMenu)]
+**Solution:** [[T02.02-Solution-AddMenu](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search/T02.02-Solution-AddMenu)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.02-Exercise-AddMenu...T02.02-Solution-AddMenu)]
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-**Solution:** [[Lesson02-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.03-Exercise-DisplayUrl...T02.03-Solution-DisplayUrl)]
+**Solution:** [[T02.03-Solution-DisplayUrl](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search/T02.03-Solution-DisplayUrl)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.03-Exercise-DisplayUrl...T02.03-Solution-DisplayUrl)]
 
 
 
@@ -33,7 +33,7 @@
 
 
 
-**Solution:** [[Lesson02-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.04-Exercise-ConnectingToTheInternet...T02.04-Solution-ConnectingToTheInternet)]
+**Solution:** [[T02.04-Solution-ConnectingToTheInternet](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search/T02.04-Solution-ConnectingToTheInternet)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.04-Exercise-ConnectingToTheInternet...T02.04-Solution-ConnectingToTheInternet)]
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-**Solution:** [[Lesson02-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.05-Exercise-CreateAsyncTask...T02.05-Solution-CreateAsyncTask)]
+**Solution:** [[T02.05-Solution-CreateAsyncTask](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search/T02.05-Solution-CreateAsyncTask)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.05-Exercise-CreateAsyncTask...T02.05-Solution-CreateAsyncTask)]
 
 
 
@@ -51,4 +51,4 @@
 
 
 
-**Solution:** [[Lesson02-GitHub-Repo-Search](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.06-Exercise-AddPolish...T02.06-Solution-AddPolish)]
+**Solution:** [[T02.06-Solution-AddPolish](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search/T02.06-Solution-AddPolish)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.06-Exercise-AddPolish...T02.06-Solution-AddPolish)]

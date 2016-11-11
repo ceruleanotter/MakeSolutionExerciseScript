@@ -6,7 +6,7 @@
 
 
 
-**Solution:** [[Lesson08-Quiz-Example](https://github.com/udacity/ud851-Exercises/tree/student/Lesson08-Quiz-Example)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T08.01-Exercise-AddTheContentProviderPermission...T08.01-Solution-AddTheContentProviderPermission)]
+**Solution:** [[T08.01-Solution-AddTheContentProviderPermission](https://github.com/udacity/ud851-Exercises/tree/student/Lesson08-Quiz-Example/T08.01-Solution-AddTheContentProviderPermission)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T08.01-Exercise-AddTheContentProviderPermission...T08.01-Solution-AddTheContentProviderPermission)]
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-**Solution:** [[Lesson08-Quiz-Example](https://github.com/udacity/ud851-Exercises/tree/student/Lesson08-Quiz-Example)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T08.02-Exercise-AddAsyncTaskToRetrieveCursor...T08.02-Solution-AddAsyncTaskToRetrieveCursor)]
+**Solution:** [[T08.02-Solution-AddAsyncTaskToRetrieveCursor](https://github.com/udacity/ud851-Exercises/tree/student/Lesson08-Quiz-Example/T08.02-Solution-AddAsyncTaskToRetrieveCursor)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T08.02-Exercise-AddAsyncTaskToRetrieveCursor...T08.02-Solution-AddAsyncTaskToRetrieveCursor)]
 
 
 
@@ -24,4 +24,4 @@
 
 
 
-**Solution:** [[Lesson08-Quiz-Example](https://github.com/udacity/ud851-Exercises/tree/student/Lesson08-Quiz-Example)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T08.03-Exercise-FinishQuizExample...T08.03-Solution-FinishQuizExample)]
+**Solution:** [[T08.03-Solution-FinishQuizExample](https://github.com/udacity/ud851-Exercises/tree/student/Lesson08-Quiz-Example/T08.03-Solution-FinishQuizExample)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T08.03-Exercise-FinishQuizExample...T08.03-Solution-FinishQuizExample)]
