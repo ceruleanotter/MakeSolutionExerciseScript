@@ -138,9 +138,6 @@ def makeTextAtoms(repoDir, targetDir, sunshineStyle):
     print targetDir
     # get the develop branches
     repo = git.Repo(repoDir)
-    startingBranch = repo.active_branch
-    print "Stashing"
-    repo.git.stash()
 
     branchTexts = []
     for branch in repo.branches:
@@ -151,19 +148,6 @@ def makeTextAtoms(repoDir, targetDir, sunshineStyle):
             curBranchText.makeExerciseSolutionFile(repo, sunshineStyle)
 
     print branchTexts
-    # popping
-    if startingBranch:
-        repo.git.checkout(startingBranch)
-    print "Popping"
-    if repo.git.stash("list"):
-        repo.git.stash("pop")
-
-        # branchDir = makeDirectory(targetDir)
-        # makeDownloadFile(branchDir)
-
-        # in the output directory, make a folder for each of the develop branches
-        # go through all the commits of that develop, for every one that has the
-        # word exercise, generate
 
 
 DESCRIPTION = "A script that makes markdown exercise and solution text for a very specifically formatted github repo "
