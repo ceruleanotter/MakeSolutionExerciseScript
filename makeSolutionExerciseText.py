@@ -21,7 +21,10 @@ def cleanCommitMessage(message):
 
 
 GITHUB_FOLDER_BASE_URL = "https://github.com/udacity/ud851-Exercises/tree/student/"
-GITHUB_DIFF_URL = "https://github.com/udacity/ud851-Exercises/compare/{before}...{after}"
+TOY_APP_DIFF_URL = "https://github.com/udacity/ud851-Exercises/compare/{before}...{after}"
+SUNSHINE_DIFF_URL = "https://github.com/udacity/ud851-Sunshine/compare/{before}...{after}"
+
+
 DOWNLOAD_FILENAME = "{folderName}-DOWNLOAD.md"
 MARKDOWN_DOWNLOAD_FORMAT = """
 # {appName} Code
@@ -103,9 +106,14 @@ class BranchText:
                 curSolutionName = curExerciseName.replace(
                     "Exercise", "Solution")
                 curSolutionFolder = self.folderLink + "/" + curSolutionName
-                curDiffLink = GITHUB_DIFF_URL.format(
-                    before=curExerciseName,
-                    after=curSolutionName)
+                if sunshineStyle:
+                    curDiffLink = SUNSHINE_DIFF_URL.format(
+                        before=curExerciseName,
+                        after=curSolutionName)
+                else:
+                    curDiffLink = TOY_APP_DIFF_URL.format(
+                        before=curExerciseName,
+                        after=curSolutionName)
                 curSolutionString = ""
                 if sunshineStyle:
                     curSolutionString = MARKDOWN_SUNSHINE_SOLUTION.format(
