@@ -64,9 +64,9 @@ class BranchText:
         self.branch = branch
         self.branchName = branchName
         self.folderName = branchName.replace(DEVELOP_PATTERN, "")
-        self.folderLink = GITHUB_FOLDER_EXERCISE_BASE_URL + self.folderName
+        self.folderLink = GITHUB_FOLDER_EXERCISE_BASE_URL + self.folderName + "/"
         if sunshineStyle:
-            self.folderLink = GITHUB_FOLDER_SUNSHINE_BASE_URL + self.folderName
+            self.folderLink = GITHUB_FOLDER_SUNSHINE_BASE_URL
         self.appName = " ".join(self.folderName.split("-")[1:])
         self.directory = os.path.join(outputDir, self.folderName)
         self.sunshineStyle = sunshineStyle
@@ -96,7 +96,7 @@ class BranchText:
             if "Exercise" in curStepBranchName:
                 # Generate exercise text
                 curExerciseName = curStepBranchName
-                curExerciseFolder = self.folderLink + "/" + curStepBranchName
+                curExerciseFolder = self.folderLink + curStepBranchName
                 curExerciseString = MARKDOWN_EXERCISE.format(
                     exerciseName=curExerciseName,
                     exerciseFolder=curExerciseFolder)
@@ -105,7 +105,7 @@ class BranchText:
                 # Generate solution text
                 curSolutionName = curExerciseName.replace(
                     "Exercise", "Solution")
-                curSolutionFolder = self.folderLink + "/" + curSolutionName
+                curSolutionFolder = self.folderLink + curSolutionName
                 if self.sunshineStyle:
                     curDiffLink = SUNSHINE_DIFF_URL.format(
                         before=curExerciseName,
