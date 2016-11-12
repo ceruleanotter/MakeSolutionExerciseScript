@@ -18,7 +18,8 @@ def cleanCommitMessage(message):
     return safe_message[:MAX_LENGTH] if len(safe_message) > MAX_LENGTH else safe_message
 
 
-GITHUB_FOLDER_BASE_URL = "https://github.com/udacity/ud851-Exercises/tree/student/"
+GITHUB_FOLDER_EXERCISE_BASE_URL = "https://github.com/udacity/ud851-Exercises/tree/student/"
+GITHUB_FOLDER_SUNSHINE_BASE_URL = "https://github.com/udacity/ud851-Sunshine/tree/student/"
 TOY_APP_DIFF_URL = "https://github.com/udacity/ud851-Exercises/compare/{before}...{after}"
 SUNSHINE_DIFF_URL = "https://github.com/udacity/ud851-Sunshine/compare/{before}...{after}"
 
@@ -58,14 +59,17 @@ MARKDOWN_SUNSHINE_SOLUTION = """
 
 
 class BranchText:
-    def __init__(self, branch, outputDir):
+    def __init__(self, branch, outputDir, sunshineStyle):
         branchName = branch.name
         self.branch = branch
         self.branchName = branchName
         self.folderName = branchName.replace(DEVELOP_PATTERN, "")
-        self.folderLink = GITHUB_FOLDER_BASE_URL + self.folderName
+        self.folderLink = GITHUB_FOLDER_EXERCISE_BASE_URL + self.folderName
+        if sunshineStyle:
+            self.folderLink = GITHUB_FOLDER_SUNSHINE_BASE_URL + self.folderName
         self.appName = " ".join(self.folderName.split("-")[1:])
         self.directory = os.path.join(outputDir, self.folderName)
+        self.sunshineStyle = sunshineStyle
 
     def __repr__(self):
         return "Branch %s : %s \n %s \n %s \n" % (self.branchName, self.folderName, self.folderLink, self.directory)
@@ -83,7 +87,7 @@ class BranchText:
                                                 folderName=self.folderName,
                                                 folderLink=self.folderLink))
 
-    def makeExerciseSolutionFile(self, repo, sunshineStyle):
+    def makeExerciseSolutionFile(self, repo):
         stringToWrite = ""
         for rev in repo.git.rev_list(self.branchName, reverse=True).split("\n"):
             commit = repo.commit(rev)
@@ -102,7 +106,7 @@ class BranchText:
                 curSolutionName = curExerciseName.replace(
                     "Exercise", "Solution")
                 curSolutionFolder = self.folderLink + "/" + curSolutionName
-                if sunshineStyle:
+                if self.sunshineStyle:
                     curDiffLink = SUNSHINE_DIFF_URL.format(
                         before=curExerciseName,
                         after=curSolutionName)
@@ -111,7 +115,7 @@ class BranchText:
                         before=curExerciseName,
                         after=curSolutionName)
                 curSolutionString = ""
-                if sunshineStyle:
+                if self.sunshineStyle:
                     curSolutionString = MARKDOWN_SUNSHINE_SOLUTION.format(
                         solName=curSolutionName,
                         solLink=curSolutionFolder,
@@ -142,10 +146,10 @@ def makeTextAtoms(repoDir, targetDir, sunshineStyle):
     branchTexts = []
     for branch in repo.branches:
         if DEVELOP_PATTERN in branch.name:
-            curBranchText = BranchText(branch, targetDir)
+            curBranchText = BranchText(branch, targetDir, sunshineStyle)
             branchTexts.append(curBranchText)
             curBranchText.makeBranchFolderWithDownloadText()
-            curBranchText.makeExerciseSolutionFile(repo, sunshineStyle)
+            curBranchText.makeExerciseSolutionFile(repo)
 
     print branchTexts
 

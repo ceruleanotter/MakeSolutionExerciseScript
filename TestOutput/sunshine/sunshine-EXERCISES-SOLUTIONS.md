@@ -2,7 +2,7 @@
 
 
 ### Exercise Code
-**Exercise:** [S01.01-Exercise-CreateLayout](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S01.01-Exercise-CreateLayout)
+**Exercise:** [S01.01-Exercise-CreateLayout](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S01.01-Exercise-CreateLayout)
 
 
 
@@ -15,12 +15,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S01.01-Solution-CreateLayout](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S01.01-Solution-CreateLayout)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S01.01-Exercise-CreateLayout...S01.01-Solution-CreateLayout)]
+**Solution:** [[S01.01-Solution-CreateLayout](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S01.01-Solution-CreateLayout)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S01.01-Exercise-CreateLayout...S01.01-Solution-CreateLayout)]
 
 
 
 ### Exercise Code
-**Exercise:** [S01.02-Exercise-AddWeatherList](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S01.02-Exercise-AddWeatherList)
+**Exercise:** [S01.01-Exercise-CreateLayout](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S01.01-Exercise-CreateLayout)
 
 
 
@@ -33,12 +33,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S01.02-Solution-AddWeatherList](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S01.02-Solution-AddWeatherList)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S01.02-Exercise-AddWeatherList...S01.02-Solution-AddWeatherList)]
+**Solution:** [[S01.01-Solution-CreateLayout](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S01.01-Solution-CreateLayout)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S01.01-Exercise-CreateLayout...S01.01-Solution-CreateLayout)]
 
 
 
 ### Exercise Code
-**Exercise:** [S02.01-Exercise-Networking](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S02.01-Exercise-Networking)
+**Exercise:** [S01.02-Exercise-AddWeatherList](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S01.02-Exercise-AddWeatherList)
 
 
 
@@ -51,12 +51,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S02.01-Solution-Networking](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S02.01-Solution-Networking)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S02.01-Exercise-Networking...S02.01-Solution-Networking)]
+**Solution:** [[S01.02-Solution-AddWeatherList](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S01.02-Solution-AddWeatherList)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S01.02-Exercise-AddWeatherList...S01.02-Solution-AddWeatherList)]
 
 
 
 ### Exercise Code
-**Exercise:** [S02.02-Exercise-Menus](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S02.02-Exercise-Menus)
+**Exercise:** [S02.01-Exercise-Networking](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S02.01-Exercise-Networking)
 
 
 
@@ -69,12 +69,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S02.02-Solution-Menus](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S02.02-Solution-Menus)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S02.02-Exercise-Menus...S02.02-Solution-Menus)]
+**Solution:** [[S02.01-Solution-Networking](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S02.01-Solution-Networking)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S02.01-Exercise-Networking...S02.01-Solution-Networking)]
 
 
 
 ### Exercise Code
-**Exercise:** [S02.03-Exercise-Polish](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S02.03-Exercise-Polish)
+**Exercise:** [S02.02-Exercise-Menus](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S02.02-Exercise-Menus)
 
 
 
@@ -87,12 +87,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S02.03-Solution-Polish](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S02.03-Solution-Polish)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S02.03-Exercise-Polish...S02.03-Solution-Polish)]
+**Solution:** [[S02.02-Solution-Menus](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S02.02-Solution-Menus)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S02.02-Exercise-Menus...S02.02-Solution-Menus)]
 
 
 
 ### Exercise Code
-**Exercise:** [S03.01-Exercise-RecyclerView](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S03.01-Exercise-RecyclerView)
+**Exercise:** [S02.03-Exercise-Polish](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S02.03-Exercise-Polish)
 
 
 
@@ -105,12 +105,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S03.01-Solution-RecyclerView](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S03.01-Solution-RecyclerView)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S03.01-Exercise-RecyclerView...S03.01-Solution-RecyclerView)]
+**Solution:** [[S02.03-Solution-Polish](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S02.03-Solution-Polish)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S02.03-Exercise-Polish...S02.03-Solution-Polish)]
 
 
 
 ### Exercise Code
-**Exercise:** [S03.02-Exercise-RecyclerViewClickHandling](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S03.02-Exercise-RecyclerViewClickHandling)
+**Exercise:** [S03.01-Exercise-RecyclerView](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S03.01-Exercise-RecyclerView)
 
 
 
@@ -123,12 +123,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S03.02-Solution-RecyclerViewClickHandling](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S03.02-Solution-RecyclerViewClickHandling)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S03.02-Exercise-RecyclerViewClickHandling...S03.02-Solution-RecyclerViewClickHandling)]
+**Solution:** [[S03.01-Solution-RecyclerView](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S03.01-Solution-RecyclerView)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S03.01-Exercise-RecyclerView...S03.01-Solution-RecyclerView)]
 
 
 
 ### Exercise Code
-**Exercise:** [S04.01-Exercise-LaunchNewActivity](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S04.01-Exercise-LaunchNewActivity)
+**Exercise:** [S03.02-Exercise-RecyclerViewClickHandling](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S03.02-Exercise-RecyclerViewClickHandling)
 
 
 
@@ -141,12 +141,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S04.01-Solution-LaunchNewActivity](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S04.01-Solution-LaunchNewActivity)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S04.01-Exercise-LaunchNewActivity...S04.01-Solution-LaunchNewActivity)]
+**Solution:** [[S03.02-Solution-RecyclerViewClickHandling](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S03.02-Solution-RecyclerViewClickHandling)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S03.02-Exercise-RecyclerViewClickHandling...S03.02-Solution-RecyclerViewClickHandling)]
 
 
 
 ### Exercise Code
-**Exercise:** [S04.02-Exercise-DisplayDayForecast](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S04.02-Exercise-DisplayDayForecast)
+**Exercise:** [S04.01-Exercise-LaunchNewActivity](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S04.01-Exercise-LaunchNewActivity)
 
 
 
@@ -159,12 +159,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S04.02-Solution-DisplayDayForecast](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S04.02-Solution-DisplayDayForecast)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S04.02-Exercise-DisplayDayForecast...S04.02-Solution-DisplayDayForecast)]
+**Solution:** [[S04.01-Solution-LaunchNewActivity](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S04.01-Solution-LaunchNewActivity)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S04.01-Exercise-LaunchNewActivity...S04.01-Solution-LaunchNewActivity)]
 
 
 
 ### Exercise Code
-**Exercise:** [S04.03-Exercise-AddMapAndSharing](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S04.03-Exercise-AddMapAndSharing)
+**Exercise:** [S04.02-Exercise-DisplayDayForecast](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S04.02-Exercise-DisplayDayForecast)
 
 
 
@@ -177,12 +177,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S04.03-Solution-AddMapAndSharing](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S04.03-Solution-AddMapAndSharing)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S04.03-Exercise-AddMapAndSharing...S04.03-Solution-AddMapAndSharing)]
+**Solution:** [[S04.02-Solution-DisplayDayForecast](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S04.02-Solution-DisplayDayForecast)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S04.02-Exercise-DisplayDayForecast...S04.02-Solution-DisplayDayForecast)]
 
 
 
 ### Exercise Code
-**Exercise:** [S05.01-Exercise-AsyncTaskLoader](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S05.01-Exercise-AsyncTaskLoader)
+**Exercise:** [S04.03-Exercise-AddMapAndSharing](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S04.03-Exercise-AddMapAndSharing)
 
 
 
@@ -195,12 +195,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S05.01-Solution-AsyncTaskLoader](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S05.01-Solution-AsyncTaskLoader)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S05.01-Exercise-AsyncTaskLoader...S05.01-Solution-AsyncTaskLoader)]
+**Solution:** [[S04.03-Solution-AddMapAndSharing](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S04.03-Solution-AddMapAndSharing)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S04.03-Exercise-AddMapAndSharing...S04.03-Solution-AddMapAndSharing)]
 
 
 
 ### Exercise Code
-**Exercise:** [S06.01-Exercise-LaunchSettingsActivity](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S06.01-Exercise-LaunchSettingsActivity)
+**Exercise:** [S05.01-Exercise-AsyncTaskLoader](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S05.01-Exercise-AsyncTaskLoader)
 
 
 
@@ -213,12 +213,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S06.01-Solution-LaunchSettingsActivity](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S06.01-Solution-LaunchSettingsActivity)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S06.01-Exercise-LaunchSettingsActivity...S06.01-Solution-LaunchSettingsActivity)]
+**Solution:** [[S05.01-Solution-AsyncTaskLoader](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S05.01-Solution-AsyncTaskLoader)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S05.01-Exercise-AsyncTaskLoader...S05.01-Solution-AsyncTaskLoader)]
 
 
 
 ### Exercise Code
-**Exercise:** [S06.02-Exercise-SettingsFragment](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S06.02-Exercise-SettingsFragment)
+**Exercise:** [S06.01-Exercise-LaunchSettingsActivity](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S06.01-Exercise-LaunchSettingsActivity)
 
 
 
@@ -231,12 +231,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S06.02-Solution-SettingsFragment](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S06.02-Solution-SettingsFragment)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S06.02-Exercise-SettingsFragment...S06.02-Solution-SettingsFragment)]
+**Solution:** [[S06.01-Solution-LaunchSettingsActivity](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S06.01-Solution-LaunchSettingsActivity)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S06.01-Exercise-LaunchSettingsActivity...S06.01-Solution-LaunchSettingsActivity)]
 
 
 
 ### Exercise Code
-**Exercise:** [S06.03-Exercise-PolishingPreferences](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S06.03-Exercise-PolishingPreferences)
+**Exercise:** [S06.02-Exercise-SettingsFragment](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S06.02-Exercise-SettingsFragment)
 
 
 
@@ -249,12 +249,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S06.03-Solution-PolishingPreferences](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S06.03-Solution-PolishingPreferences)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S06.03-Exercise-PolishingPreferences...S06.03-Solution-PolishingPreferences)]
+**Solution:** [[S06.02-Solution-SettingsFragment](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S06.02-Solution-SettingsFragment)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S06.02-Exercise-SettingsFragment...S06.02-Solution-SettingsFragment)]
 
 
 
 ### Exercise Code
-**Exercise:** [S07.01-Exercise-DatabaseCreation](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S07.01-Exercise-DatabaseCreation)
+**Exercise:** [S06.03-Exercise-PolishingPreferences](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S06.03-Exercise-PolishingPreferences)
 
 
 
@@ -267,12 +267,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S07.01-Solution-DatabaseCreation](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S07.01-Solution-DatabaseCreation)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S07.01-Exercise-DatabaseCreation...S07.01-Solution-DatabaseCreation)]
+**Solution:** [[S06.03-Solution-PolishingPreferences](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S06.03-Solution-PolishingPreferences)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S06.03-Exercise-PolishingPreferences...S06.03-Solution-PolishingPreferences)]
 
 
 
 ### Exercise Code
-**Exercise:** [S07.02-Exercise-PreventInvalidInserts](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S07.02-Exercise-PreventInvalidInserts)
+**Exercise:** [S07.01-Exercise-DatabaseCreation](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S07.01-Exercise-DatabaseCreation)
 
 
 
@@ -285,12 +285,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S07.02-Solution-PreventInvalidInserts](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S07.02-Solution-PreventInvalidInserts)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S07.02-Exercise-PreventInvalidInserts...S07.02-Solution-PreventInvalidInserts)]
+**Solution:** [[S07.01-Solution-DatabaseCreation](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S07.01-Solution-DatabaseCreation)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S07.01-Exercise-DatabaseCreation...S07.01-Solution-DatabaseCreation)]
 
 
 
 ### Exercise Code
-**Exercise:** [S07.03-Exercise-ConflictResolutionPolicy](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S07.03-Exercise-ConflictResolutionPolicy)
+**Exercise:** [S07.02-Exercise-PreventInvalidInserts](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S07.02-Exercise-PreventInvalidInserts)
 
 
 
@@ -303,12 +303,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S07.03-Solution-ConflictResolutionPolicy](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S07.03-Solution-ConflictResolutionPolicy)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S07.03-Exercise-ConflictResolutionPolicy...S07.03-Solution-ConflictResolutionPolicy)]
+**Solution:** [[S07.02-Solution-PreventInvalidInserts](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S07.02-Solution-PreventInvalidInserts)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S07.02-Exercise-PreventInvalidInserts...S07.02-Solution-PreventInvalidInserts)]
 
 
 
 ### Exercise Code
-**Exercise:** [S09.01-Exercise-ContentProviderFoundation](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S09.01-Exercise-ContentProviderFoundation)
+**Exercise:** [S07.03-Exercise-ConflictResolutionPolicy](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S07.03-Exercise-ConflictResolutionPolicy)
 
 
 
@@ -321,12 +321,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S09.01-Solution-ContentProviderFoundation](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S09.01-Solution-ContentProviderFoundation)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S09.01-Exercise-ContentProviderFoundation...S09.01-Solution-ContentProviderFoundation)]
+**Solution:** [[S07.03-Solution-ConflictResolutionPolicy](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S07.03-Solution-ConflictResolutionPolicy)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S07.03-Exercise-ConflictResolutionPolicy...S07.03-Solution-ConflictResolutionPolicy)]
 
 
 
 ### Exercise Code
-**Exercise:** [S09.02-Exercise-ContentProviderBulkInsert](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S09.02-Exercise-ContentProviderBulkInsert)
+**Exercise:** [S09.01-Exercise-ContentProviderFoundation](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S09.01-Exercise-ContentProviderFoundation)
 
 
 
@@ -339,12 +339,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S09.02-Solution-ContentProviderBulkInsert](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S09.02-Solution-ContentProviderBulkInsert)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S09.02-Exercise-ContentProviderBulkInsert...S09.02-Solution-ContentProviderBulkInsert)]
+**Solution:** [[S09.01-Solution-ContentProviderFoundation](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S09.01-Solution-ContentProviderFoundation)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S09.01-Exercise-ContentProviderFoundation...S09.01-Solution-ContentProviderFoundation)]
 
 
 
 ### Exercise Code
-**Exercise:** [S09.03-Exercise-ContentProviderDelete](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S09.03-Exercise-ContentProviderDelete)
+**Exercise:** [S09.02-Exercise-ContentProviderBulkInsert](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S09.02-Exercise-ContentProviderBulkInsert)
 
 
 
@@ -357,12 +357,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S09.03-Solution-ContentProviderDelete](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S09.03-Solution-ContentProviderDelete)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S09.03-Exercise-ContentProviderDelete...S09.03-Solution-ContentProviderDelete)]
+**Solution:** [[S09.02-Solution-ContentProviderBulkInsert](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S09.02-Solution-ContentProviderBulkInsert)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S09.02-Exercise-ContentProviderBulkInsert...S09.02-Solution-ContentProviderBulkInsert)]
 
 
 
 ### Exercise Code
-**Exercise:** [S10.01-Exercise-SmarterSyncing](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S10.01-Exercise-SmarterSyncing)
+**Exercise:** [S09.03-Exercise-ContentProviderDelete](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S09.03-Exercise-ContentProviderDelete)
 
 
 
@@ -375,12 +375,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S10.01-Solution-SmarterSyncing](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S10.01-Solution-SmarterSyncing)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S10.01-Exercise-SmarterSyncing...S10.01-Solution-SmarterSyncing)]
+**Solution:** [[S09.03-Solution-ContentProviderDelete](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S09.03-Solution-ContentProviderDelete)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S09.03-Exercise-ContentProviderDelete...S09.03-Solution-ContentProviderDelete)]
 
 
 
 ### Exercise Code
-**Exercise:** [S10.02-Exercise-FirebaseJobDispatcher](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S10.02-Exercise-FirebaseJobDispatcher)
+**Exercise:** [S10.01-Exercise-SmarterSyncing](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S10.01-Exercise-SmarterSyncing)
 
 
 
@@ -393,12 +393,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S10.02-Solution-FirebaseJobDispatcher](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S10.02-Solution-FirebaseJobDispatcher)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S10.02-Exercise-FirebaseJobDispatcher...S10.02-Solution-FirebaseJobDispatcher)]
+**Solution:** [[S10.01-Solution-SmarterSyncing](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S10.01-Solution-SmarterSyncing)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S10.01-Exercise-SmarterSyncing...S10.01-Solution-SmarterSyncing)]
 
 
 
 ### Exercise Code
-**Exercise:** [S11.01-Exercise-NewListItemLayout](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S11.01-Exercise-NewListItemLayout)
+**Exercise:** [S10.02-Exercise-FirebaseJobDispatcher](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S10.02-Exercise-FirebaseJobDispatcher)
 
 
 
@@ -411,12 +411,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S11.01-Solution-NewListItemLayout](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S11.01-Solution-NewListItemLayout)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S11.01-Exercise-NewListItemLayout...S11.01-Solution-NewListItemLayout)]
+**Solution:** [[S10.02-Solution-FirebaseJobDispatcher](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S10.02-Solution-FirebaseJobDispatcher)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S10.02-Exercise-FirebaseJobDispatcher...S10.02-Solution-FirebaseJobDispatcher)]
 
 
 
 ### Exercise Code
-**Exercise:** [S11.02-Exercise-TodayListItem](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S11.02-Exercise-TodayListItem)
+**Exercise:** [S11.01-Exercise-NewListItemLayout](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S11.01-Exercise-NewListItemLayout)
 
 
 
@@ -429,12 +429,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S11.02-Solution-TodayListItem](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S11.02-Solution-TodayListItem)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S11.02-Exercise-TodayListItem...S11.02-Solution-TodayListItem)]
+**Solution:** [[S11.01-Solution-NewListItemLayout](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S11.01-Solution-NewListItemLayout)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S11.01-Exercise-NewListItemLayout...S11.01-Solution-NewListItemLayout)]
 
 
 
 ### Exercise Code
-**Exercise:** [S11.03-Exercise-DetailLayoutAndDataBinding](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S11.03-Exercise-DetailLayoutAndDataBinding)
+**Exercise:** [S11.02-Exercise-TodayListItem](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S11.02-Exercise-TodayListItem)
 
 
 
@@ -447,12 +447,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S11.03-Solution-DetailLayoutAndDataBinding](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S11.03-Solution-DetailLayoutAndDataBinding)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S11.03-Exercise-DetailLayoutAndDataBinding...S11.03-Solution-DetailLayoutAndDataBinding)]
+**Solution:** [[S11.02-Solution-TodayListItem](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S11.02-Solution-TodayListItem)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S11.02-Exercise-TodayListItem...S11.02-Solution-TodayListItem)]
 
 
 
 ### Exercise Code
-**Exercise:** [S11.04-Exercise-Notifications](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S11.04-Exercise-Notifications)
+**Exercise:** [S11.03-Exercise-DetailLayoutAndDataBinding](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S11.03-Exercise-DetailLayoutAndDataBinding)
 
 
 
@@ -465,12 +465,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S11.04-Solution-Notifications](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S11.04-Solution-Notifications)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S11.04-Exercise-Notifications...S11.04-Solution-Notifications)]
+**Solution:** [[S11.03-Solution-DetailLayoutAndDataBinding](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S11.03-Solution-DetailLayoutAndDataBinding)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S11.03-Exercise-DetailLayoutAndDataBinding...S11.03-Solution-DetailLayoutAndDataBinding)]
 
 
 
 ### Exercise Code
-**Exercise:** [S12.01-Exercise-DimensionsColorsAndFonts](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S12.01-Exercise-DimensionsColorsAndFonts)
+**Exercise:** [S11.04-Exercise-Notifications](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S11.04-Exercise-Notifications)
 
 
 
@@ -483,12 +483,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S12.01-Solution-DimensionsColorsAndFonts](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S12.01-Solution-DimensionsColorsAndFonts)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S12.01-Exercise-DimensionsColorsAndFonts...S12.01-Solution-DimensionsColorsAndFonts)]
+**Solution:** [[S11.04-Solution-Notifications](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S11.04-Solution-Notifications)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S11.04-Exercise-Notifications...S11.04-Solution-Notifications)]
 
 
 
 ### Exercise Code
-**Exercise:** [S12.01-Exercise-Styles](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S12.01-Exercise-Styles)
+**Exercise:** [S12.01-Exercise-DimensionsColorsAndFonts](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S12.01-Exercise-DimensionsColorsAndFonts)
 
 
 
@@ -501,12 +501,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S12.01-Solution-Styles](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S12.01-Solution-Styles)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S12.01-Exercise-Styles...S12.01-Solution-Styles)]
+**Solution:** [[S12.01-Solution-DimensionsColorsAndFonts](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S12.01-Solution-DimensionsColorsAndFonts)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S12.01-Exercise-DimensionsColorsAndFonts...S12.01-Solution-DimensionsColorsAndFonts)]
 
 
 
 ### Exercise Code
-**Exercise:** [S12.03-Exercise-TouchSelectors](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S12.03-Exercise-TouchSelectors)
+**Exercise:** [S12.01-Exercise-Styles](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S12.01-Exercise-Styles)
 
 
 
@@ -519,12 +519,12 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S12.03-Solution-TouchSelectors](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S12.03-Solution-TouchSelectors)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S12.03-Exercise-TouchSelectors...S12.03-Solution-TouchSelectors)]
+**Solution:** [[S12.01-Solution-Styles](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S12.01-Solution-Styles)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S12.01-Exercise-Styles...S12.01-Solution-Styles)]
 
 
 
 ### Exercise Code
-**Exercise:** [S12.04-Exercise-ResourceQualifiers](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S12.04-Exercise-ResourceQualifiers)
+**Exercise:** [S12.03-Exercise-TouchSelectors](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S12.03-Exercise-TouchSelectors)
 
 
 
@@ -537,4 +537,22 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S12.04-Solution-ResourceQualifiers](https://github.com/udacity/ud851-Exercises/tree/student/sunshine/S12.04-Solution-ResourceQualifiers)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S12.04-Exercise-ResourceQualifiers...S12.04-Solution-ResourceQualifiers)]
+**Solution:** [[S12.03-Solution-TouchSelectors](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S12.03-Solution-TouchSelectors)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S12.03-Exercise-TouchSelectors...S12.03-Solution-TouchSelectors)]
+
+
+
+### Exercise Code
+**Exercise:** [S12.04-Exercise-ResourceQualifiers](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S12.04-Exercise-ResourceQualifiers)
+
+
+
+# <Name of Node> Solution
+
+<Description of the solution state, what the app can now do, etc>
+
+## Notes on Solution Code
+
+<Description of any interesting things you want to point out, gotchas, etc>
+
+### Solution Code
+**Solution:** [[S12.04-Solution-ResourceQualifiers](https://github.com/udacity/ud851-Sunshine/tree/student/sunshine/S12.04-Solution-ResourceQualifiers)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S12.04-Exercise-ResourceQualifiers...S12.04-Solution-ResourceQualifiers)]
