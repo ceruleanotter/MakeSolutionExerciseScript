@@ -20,24 +20,6 @@
 
 
 ### Exercise Code
-**Exercise:** [S01.01-Exercise-CreateLayout](https://github.com/udacity/ud851-Sunshine/tree/student/S01.01-Exercise-CreateLayout)
-
-
-
-# <Name of Node> Solution
-
-<Description of the solution state, what the app can now do, etc>
-
-## Notes on Solution Code
-
-<Description of any interesting things you want to point out, gotchas, etc>
-
-### Solution Code
-**Solution:** [[S01.01-Solution-CreateLayout](https://github.com/udacity/ud851-Sunshine/tree/student/S01.01-Solution-CreateLayout)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S01.01-Exercise-CreateLayout...S01.01-Solution-CreateLayout)]
-
-
-
-### Exercise Code
 **Exercise:** [S01.02-Exercise-AddWeatherList](https://github.com/udacity/ud851-Sunshine/tree/student/S01.02-Exercise-AddWeatherList)
 
 
@@ -506,7 +488,7 @@
 
 
 ### Exercise Code
-**Exercise:** [S12.01-Exercise-Styles](https://github.com/udacity/ud851-Sunshine/tree/student/S12.01-Exercise-Styles)
+**Exercise:** [S12.02-Exercise-Styles](https://github.com/udacity/ud851-Sunshine/tree/student/S12.02-Exercise-Styles)
 
 
 
@@ -519,7 +501,7 @@
 <Description of any interesting things you want to point out, gotchas, etc>
 
 ### Solution Code
-**Solution:** [[S12.01-Solution-Styles](https://github.com/udacity/ud851-Sunshine/tree/student/S12.01-Solution-Styles)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S12.01-Exercise-Styles...S12.01-Solution-Styles)]
+**Solution:** [[S12.02-Solution-Styles](https://github.com/udacity/ud851-Sunshine/tree/student/S12.02-Solution-Styles)][[Diff](https://github.com/udacity/ud851-Sunshine/compare/S12.02-Exercise-Styles...S12.02-Solution-Styles)]
 
 
 
