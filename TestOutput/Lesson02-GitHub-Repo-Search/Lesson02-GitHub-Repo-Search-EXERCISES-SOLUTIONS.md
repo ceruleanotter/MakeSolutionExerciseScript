@@ -11,15 +11,6 @@
 
 
 ### Exercise Code
-**Exercise:** [T02.02-Exercise-AddMenu](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu)
-
-
-
-**Solution:** [[T02.02-Solution-AddMenu](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search/T02.02-Solution-AddMenu)][[Diff](https://github.com/udacity/ud851-Exercises/compare/T02.02-Exercise-AddMenu...T02.02-Solution-AddMenu)]
-
-
-
-### Exercise Code
 **Exercise:** [T02.03-Exercise-DisplayUrl](https://github.com/udacity/ud851-Exercises/tree/student/Lesson02-GitHub-Repo-Search/T02.03-Exercise-DisplayUrl)
 
 
